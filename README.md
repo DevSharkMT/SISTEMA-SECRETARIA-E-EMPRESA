@@ -28,7 +28,7 @@ Links:
 <h2></h2>
 
 # INFORMAÇÕES ADICIONAIS
-* Código foi passado para minha turma de desenvolvimento de sistemas, como uma demanda real, pois a secretaria queria trocar o sistema por estar muito antigo.
-* Segundo código feito usando HTML, CSS, PHP e MYSQL.
+* Código foi passado para minha turma de desenvolvimento de sistemas como uma demanda real, pois a secretaria estava querendo trocar o sistema atual.
+* Meu segundo código feito usando HTML, CSS, PHP e MYSQL.
 * Não foi passado uma modelagem pré definida, porém o sistema deveria possuir uma interface simples com as cores correspondentes a instituição. 
 
